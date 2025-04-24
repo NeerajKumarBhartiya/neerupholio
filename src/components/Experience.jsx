@@ -6,15 +6,15 @@ const Experience = () => {
       period: "Jul 2024 - Oct 2024",
       description:
         "Achieved top 5% ranking in the NPTEL Machine Learning Course, demonstrating strong understanding of core ML concepts, algorithms, and practical applications through rigorous assessments and hands-on project implementation.",
-      technologies: ["Python", "TensorFlow", "Pandas", "SQL"],
+      technologies: [],
     },
     {
       title: "	eYantra Robotics Hackathon",
-      company: "University AI Lab",
+      company: "",
       period: "Jul 2024 - Dec 2024",
       description:
         "Qualified Stage 1 of eYantra Robotics Hackathon with national rank 82 out of 1000 teams, showcasing robotics proficiency, innovative design skills, and effective problem-solving abilities.",
-      technologies: ["PyTorch", "OpenCV", "NumPy", "Matplotlib"],
+      technologies: [],
     },
   ]
 
