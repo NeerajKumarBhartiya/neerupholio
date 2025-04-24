@@ -8,7 +8,7 @@ const About = () => {
             <img src="/neeraj.jpg?height=256&width=256" alt="Profile" className="w-full h-full object-cover" />
           </div>
           <div className="max-w-lg text-center md:text-left">
-            <h3 className="text-2xl font-semibold mb-4 text-purple-700 dark:text-purple-400">John Doe</h3>
+            <h3 className="text-2xl font-semibold mb-4 text-purple-700 dark:text-purple-400">Neeraj Kumar</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
               I'm a passionate Machine Learning Engineer with a strong foundation in data science and artificial
               intelligence. Currently pursuing my Bachelor's degree in Computer Science with a specialization in Machine
