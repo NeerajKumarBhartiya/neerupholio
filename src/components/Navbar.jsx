@@ -48,7 +48,7 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
-            <span className="text-xl font-bold text-purple-700 dark:text-purple-400 animate-pulse">ML Portfolio</span>
+            <span className="text-xl font-bold text-purple-700 dark:text-purple-400 animate-pulse">NB</span>
           </div>
 
           {/* Desktop menu */}
